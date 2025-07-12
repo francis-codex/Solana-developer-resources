@@ -6,11 +6,11 @@ Whether you're just getting started or looking to deepen your expertise, you'll 
 
 This is not an exhaustive index of everything in the ecosystem—rather, it's a focused and evolving guide for anyone serious about building on Solana. You're also welcome to contribute to the repo if you find a useful opportunity for the community.
 
-<figure><img src="../img/res.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/res.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Table of Contents
 
-![](../img/9.jpg)
+![](./img/9.jpg)
 
 * [How Solana Works](#how-solana-works)
 * [Tutorial Documentation](#tutorial-documentation)
@@ -29,7 +29,7 @@ This is not an exhaustive index of everything in the ecosystem—rather, it's a 
 
 Understanding the fundamentals of Solana's architecture and consensus mechanism.&#x20;
 
-<figure><img src="../img/1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/1.jpg" alt=""><figcaption></figcaption></figure>
 
 * [**Solana Architecture Breakdown by Ichigo**](https://www.helius.dev/blog/solana-executive-overview) - A detailed overview of the Solana protocol
 * [**Solana Whitepaper**](https://solana.com/solana-whitepaper.pdf) - The original technical paper explaining Proof of History and Solana's architecture
@@ -42,7 +42,7 @@ Understanding the fundamentals of Solana's architecture and consensus mechanism.
 
 Step-by-step guides and tutorials for building on Solana.&#x20;
 
-<figure><img src="../img/8.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/8.jpg" alt=""><figcaption></figcaption></figure>
 
 * [**Solana Cookbook**](https://solanacookbook.com/) - Comprehensive collection of code examples and recipes
 * [**Anchor Tutorial**](https://www.anchor-lang.com/docs/intro) - Official Anchor framework documentation and tutorials
@@ -62,7 +62,7 @@ Step-by-step guides and tutorials for building on Solana.&#x20;
 
 Top YouTube channels for Solana development content.&#x20;
 
-<figure><img src="../img/2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/2.jpg" alt=""><figcaption></figcaption></figure>
 
 * [**Solana Foundation**](https://www.youtube.com/c/SolanaLabs) - Official channel with talks, tutorials, and ecosystem updates
 * [**Solana Bytes**](https://www.youtube.com/playlist?list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm) - Short-form technical content from Solana Labs
@@ -75,7 +75,7 @@ Top YouTube channels for Solana development content.&#x20;
 
 Structured learning programs for Solana development.&#x20;
 
-<figure><img src="../img/3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/3.jpg" alt=""><figcaption></figcaption></figure>
 
 * [**Solana Foundation Developer Program**](https://solana.com/developers) - Everything solana development from solana foundation engineers
 * [**Solana Foundation Developer Bootcamp**](https://www.youtube.com/watch?v=amAq-WHAFs8\&list=PLilwLeBwGuK7HN8ZnXpGAD9q6i4syhnVc) - Full self paced solana developer bootcamp
@@ -91,7 +91,7 @@ Structured learning programs for Solana development.&#x20;
 
 Essential GitHub repositories for Solana development.&#x20;
 
-<figure><img src="../img/10.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/10.jpg" alt=""><figcaption></figcaption></figure>
 
 * [**solana-labs/solana**](https://github.com/solana-labs/solana) - Main Solana blockchain implementation
 * [**coral-xyz/anchor**](https://github.com/coral-xyz/anchor) - Anchor framework for Solana smart contracts
@@ -107,7 +107,7 @@ Essential GitHub repositories for Solana development.&#x20;
 
 Tools and frameworks for building on Solana.&#x20;
 
-<figure><img src="../img/5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/5.jpg" alt=""><figcaption></figcaption></figure>
 
 #### Infrastructure and APIs
 
@@ -142,7 +142,7 @@ Tools and frameworks for building on Solana.&#x20;
 
 RPC node providers are used to connect to the Solana network.&#x20;
 
-<figure><img src="../img/14.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/14.jpg" alt=""><figcaption></figcaption></figure>
 
 * [**Helius**](https://helius.xyz/) - Developer-focused Solana RPC with additional tooling
 * [**QuickNode**](https://www.quicknode.com/chains/sol) - High-performance Solana RPC endpoints
@@ -154,7 +154,7 @@ RPC node providers are used to connect to the Solana network.&#x20;
 
 Security organisations and communities, best practices, and resources for Solana.&#x20;
 
-<figure><img src="../img/13.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/13.jpg" alt=""><figcaption></figcaption></figure>
 
 #### Security Courses
 
@@ -166,7 +166,7 @@ Security organisations and communities, best practices, and resources for Solana
 
 Major funding opportunities and competitions for Solana builders.&#x20;
 
-<figure><img src="../img/7.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/7.jpg" alt=""><figcaption></figcaption></figure>
 
 * [Colosseum](https://www.colosseum.com/) - The world's most competitive online hackathons, where elite crypto builders launch startups on Solana
 * [Colosseum Accelerator](https://www.colosseum.com/accelerator/) - For crypto founders to become embedded in the Solana ecosystem
@@ -179,18 +179,18 @@ Major funding opportunities and competitions for Solana builders.&#x20;
 
 Active Solana communities for learning and networking.&#x20;
 
-<figure><img src="../img/6.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/6.jpg" alt=""><figcaption></figcaption></figure>
 
 * [Superteam](https://superteam.fun/) - This is the best talent pipeline for learning, earning and building in crypto, available in your country
 * [Solana Devs](https://x.com/solana_devs) - News, updates, content, code and job opportunities for Solana developers
 
 ### Recommended Books
 _Coming soon - curated list of essential books for Solana development and blockchain understanding._
-![myimage](../img/4.jpg)
+![myimage](./img/4.jpg)
 
 ### Landing Solana ecosystem Jobs
 Land Solana ecosystem jobs with these platforms
-<figure><img src="../img/job.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="./img/job.png" alt=""><figcaption></figcaption></figure>
 
 -  [Solana Job Board](https://jobs.solana.com/)
 -  [Superteam Talent](https://talent.superteam.fun/)
